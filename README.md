@@ -3,9 +3,3 @@
 - L4BC
 
 Article: https://www.cycognito.com/learn/application-security/web-application-security/
-
-main3dsnfsndfsn
-Article: https://www.cycognito.com/learn/application-security/web-application-security/f
-
-fdsdfsdfstestingtsetingdfsfdsf
-main3dsnfsndfsnffsdsfdsfds
